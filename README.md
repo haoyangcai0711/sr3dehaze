@@ -5,3 +5,5 @@ Our work is based on an unofficial implementation of the SR3 model, which you ca
 Original paper: https://arxiv.org/pdf/2104.07636.pdf
 
 We adapted this SR3 model for the task of image dehazing and trained the model using the RESIDE-beta dataset. For more details, please refer to our report.
+
+For the baseline in our report (AOD-Net), we were using the implementation from https://github.com/weber0522bb/AODnet-by-pytorch
